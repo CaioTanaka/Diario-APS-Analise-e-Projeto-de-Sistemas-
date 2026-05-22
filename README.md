@@ -8,11 +8,17 @@ Este repositório tem como objetivo **registrar e organizar os conteúdos estuda
 Além de funcionar como um **material de estudo e revisão**, este repositório também busca **facilitar a navegação entre os conteúdos**, utilizando links e organização por tópicos para tornar o acesso às anotações mais simples e rápido.  
 
 ## 👥 Integrantes  
+### 1º Trimestre 
 
 * **_Amauri Rafael Antunes Rosa Silidonio_**
 * **_Caio Shoiti Berger Tanaka_**  
 * **_Gabriel Nogueira dos Santos_**  
 * **_Nicolas Santos Chaves_**
+* **_Vitor Margonar_**
+
+### 2º Trimestre
+* **_Amauri Rafael Antunes Rosa Silidonio_**
+* **_Caio Shoiti Berger Tanaka_**  
 * **_Vitor Margonar_**
 
 ## 🎯 Objetivos
